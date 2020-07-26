@@ -226,9 +226,3 @@ header{
     }
     
 }
-
-@media (min-width: 1350px){
-    .divtwo{
-        transform: scale(1.5);
-    }
-}
